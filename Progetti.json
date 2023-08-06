@@ -48,7 +48,22 @@
             "link": "https://progetto-apice.web.app/"
         }
     ],
-    "Python_progetti":[]
-
+    "Python_progetti":[
+        {
+            "nome": "🚗 CarGame",
+            "descrizione": "Questa applicazione rappresenta un coinvolgente gioco di guida automobilistica, dove l'utente si troverà ad affrontare sfide emozionanti attraverso un percorso disseminato di ostacoli unici e abilità speciali. Durante il gioco, i giocatori dovranno dimostrare agilità e riflessi rapidi per superare gli ostacoli e sfruttare al meglio le abilità per raggiungere il traguardo. L'applicazione offre un'esperienza di gioco coinvolgente, arricchita da una varietà di situazioni e sfide che mettono alla prova le capacità di guida virtuale dei giocatori. APP NATA A SCOPO SCOLASTICO",
+            "link": "./Download/CarGame.zip"
+        },
+        {
+            "nome": "🚢 Battaglia navale",
+            "descrizione": "Questa applicazione riporta in vita il classico gioco da tavolo della Battaglia Navale in un'esperienza digitale interattiva. Gli utenti avranno l'opportunità di sfidarsi a turno nella disposizione strategica delle loro navi, scegliendo saggiamente le posizioni in cui collocarle. Una volta che le navi sono posizionate, i giocatori possono mettere alla prova le loro abilità tattiche sfidando un amico o persino un avversario virtuale controllato dal computer. Questo gioco offre un ambiente di competizione amichevole e stimolante, in cui la pianificazione e la strategia sono fondamentali per ottenere la vittoria. APP NATA A SCOPO SCOLASTICO",
+            "link": "./Download/Battaglia_Navale.zip"
+        },
+        {
+            "nome": "🃏 Edipy",
+            "descrizione": "Questa applicazione è stata progettata per semplificare e velocizzare i processi di programmazione con Python che tendono a essere lenti o complessi. Edipy è un pratico strumento che offre un insieme di funzionalità e automatismi pensati per migliorare l'efficienza dello sviluppo in Python. Dall'automazione di task ripetitivi all'ottimizzazione dell'esecuzione di script, Edipy è una risorsa preziosa per i programmatori che cercano di ottimizzare il proprio flusso di lavoro. Sperimenta ora Edipy e scopri come può rendere la tua esperienza di sviluppo più fluida ed efficace. APP NATA A SCOPO SCOLASTICO",
+            "link": "./Download/AlbaFileDialog.py"
+        }
+    ]
 }
 

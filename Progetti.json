@@ -2,52 +2,53 @@
     "Siti_web": [
         {
             "nome": "🏳️ Sito guida",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Un sito web sviluppato con l'intento di chiarire concetti avanzati di JavaScript, JSON e XML. Fornisce un'approfondita esplorazione di React e MongoDB. Questa piattaforma educativa offre una disamina completa di paradigmi di programmazione complessi, consentendo agli apprendenti di comprendere tecniche intricate di sviluppo web. Il sito web combina spiegazioni dettagliate, esempi di codice e demo interattive per migliorare la comprensione di queste tecnologie.",
             "link": "https://lucx-albx.github.io/Guida/index.html"
         },
         {
-            "nome": "📁 Sito Filedialog guida",
-            "descrizione": "Descrizione del sito",
+            "nome": "📁 Filedialog guida",
+            "descrizione": "Un sito web conclusivo sviluppato per presentare e introdurre il widget 'filedialog' della libreria Tkinter di Python. Questa piattaforma offre una panoramica concisa ma informativa delle funzionalità del widget, fornendo esempi pratici e guide passo-passo. Gli utenti possono esplorare le capacità del widget, acquisendo conoscenze sull'uso della manipolazione dei file e dell'interazione all'interno delle applicazioni Python.",
             "link": "https://lucx-albx.github.io/Filedialog_guida/index.html"
         },
         {
             "nome": "🏊‍♂️ Sito Piscina",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Un sito web conclusivo sviluppato con l'obiettivo di raccogliere misurazioni su alcuni compagni di classe. Questa piattaforma funge da strumento digitale per registrare e gestire misurazioni, potenzialmente per scopi antropometrici o di ricerca. Il sito web fornisce un ambiente sicuro e intuitivo per inserire, memorizzare e analizzare i dati delle misurazioni, garantendo una registrazione accurata e organizzata per il compito designato.",
             "link": "https://lucx-albx.github.io/Piscina/"
         }
     ],
     "Web_app":[
         {
             "nome": "📒 Prendi Nota",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Benvenuti su Take Notes, la web app definitiva per la gestione degli appunti e la creazione di riassunti. Organizza i tuoi contenuti, cattura idee e ottieni riassunti rapidi da immagini o testi. Sia che tu sia uno studente o un professionista, semplifica il tuo apprendimento e la produttività con Take Notes.",
             "link": "https://take-notes-db.web.app/"
         },
         {
             "nome": "🗼 Torre civica",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Una web app sviluppata alla conclusione di un periodo scolastico con l'obiettivo di illustrare il fenomeno della Torre Civica di Saluzzo. Questa piattaforma interattiva offre un'esplorazione completa della rilevanza storica e architettonica della Torre Civica, combinando informazioni testuali, immagini e elementi interattivi per coinvolgere gli utenti in una profonda comprensione dell'argomento.",
             "link": "https://torrecivica-1243f.web.app/"
         },
         {
             "nome": "🔴 Pokemon",
-            "descrizione": "https://pokemon-house.web.app/",
+            "descrizione": "Una web app conclusiva sviluppata al termine di un periodo scolastico, ideata per fornire esperienza pratica nella gestione di una grande quantità di dati. Questo sito web è incentrato sull'universo dei Pokémon, offrendo un'esplorazione basata sui dati di diverse specie di Pokémon, abilità e attributi. Gli utenti possono navigare attraverso l'ampia raccolta di dati sui Pokémon, visualizzando tendenze e pattern attraverso grafici dinamici e elementi visivi informativi.",
             "link": "https://lucx-albx.github.io/Guida/index.html"
         },
         {
             "nome": "🔵 Api telegram",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Una web app sviluppata con l'obiettivo di utilizzare API per l'integrazione fluida con la piattaforma di messaggistica Telegram. Questo progetto, realizzato verso la fine di un periodo scolastico, facilita la trasmissione continua di messaggi e immagini su Telegram utilizzando API. Gli utenti possono configurare e pianificare il contenuto da inviare, fornendo uno strumento versatile per messaggi automatizzati e condivisione di contenuti visivi.",
             "link": "https://api-telegram-cd687.web.app/"
         },
         {
             "nome": "🏫 Progetti scolastici",
-            "descrizione": "https://progetti-itis-rivoira-4c.web.app/",
+            "descrizione": "Una web app conclusiva sviluppata come archivio per tutti i progetti intrapresi nel corso degli anni scolastici. Questa piattaforma funge da magazzino virtuale, memorizzando e organizzando una raccolta di progetti completati durante il percorso accademico. La struttura e la navigazione della web app facilitano l'accesso a ciascun progetto, offrendo una vetrina completa delle diverse competenze e realizzazioni degli studenti.",
             "link": "https://lucx-albx.github.io/Guida/index.html"
         },
         {
             "nome": "🌍 Sito APICE",
-            "descrizione": "Descrizione del sito",
+            "descrizione": "Una web app sviluppata alla fine del periodo scolastico in occasione di un incontro con Luca Giordana. Questa applicazione offre uno spazio per documentare e presentare le conoscenze acquisite dall'interazione con Luca Giordana. Potrebbe includere elementi multimediali come immagini, video e testo, offrendo una rappresentazione professionale dell'impatto dell'incontro sul percorso di apprendimento degli studenti.",
             "link": "https://progetto-apice.web.app/"
         }
     ],
     "Python_progetti":[]
 
 }
+

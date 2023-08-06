@@ -1,0 +1,53 @@
+{
+    "Siti_web": [
+        {
+            "nome": "🏳️ Sito guida",
+            "descrizione": "Descrizione del sito",
+            "link": "https://lucx-albx.github.io/Guida/index.html"
+        },
+        {
+            "nome": "📁 Sito Filedialog guida",
+            "descrizione": "Descrizione del sito",
+            "link": "https://lucx-albx.github.io/Filedialog_guida/index.html"
+        },
+        {
+            "nome": "🏊‍♂️ Sito Piscina",
+            "descrizione": "Descrizione del sito",
+            "link": "https://lucx-albx.github.io/Piscina/"
+        }
+    ],
+    "Web_app":[
+        {
+            "nome": "📒 Prendi Nota",
+            "descrizione": "Descrizione del sito",
+            "link": "https://take-notes-db.web.app/"
+        },
+        {
+            "nome": "🗼 Torre civica",
+            "descrizione": "Descrizione del sito",
+            "link": "https://torrecivica-1243f.web.app/"
+        },
+        {
+            "nome": "🔴 Pokemon",
+            "descrizione": "https://pokemon-house.web.app/",
+            "link": "https://lucx-albx.github.io/Guida/index.html"
+        },
+        {
+            "nome": "🔵 Api telegram",
+            "descrizione": "Descrizione del sito",
+            "link": "https://api-telegram-cd687.web.app/"
+        },
+        {
+            "nome": "🏫 Progetti scolastici",
+            "descrizione": "https://progetti-itis-rivoira-4c.web.app/",
+            "link": "https://lucx-albx.github.io/Guida/index.html"
+        },
+        {
+            "nome": "🌍 Sito APICE",
+            "descrizione": "Descrizione del sito",
+            "link": "https://progetto-apice.web.app/"
+        }
+    ],
+    "Python_progetti":[]
+
+}

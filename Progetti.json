@@ -77,7 +77,7 @@
         {
             "nome": "📂 FileDeleter",
             "descrizione": "'FileDeleter' è un'applicazione desktop avanzata, sviluppata utilizzando la potente tecnologia di programmazione Python, che offre un servizio di ottimizzazione e pulizia dei file temporanei su sistemi Windows. Progettata per migliorare le prestazioni e liberare spazio prezioso su disco, questa app offre un'interfaccia intuitiva e un set di funzionalità flessibili per consentire agli utenti di personalizzare il processo di pulizia in base alle proprie esigenze.",
-            "link": "./Download/Setup8.3"
+            "link": "./Download/Setup8.3.exe"
         }
     ]
 }

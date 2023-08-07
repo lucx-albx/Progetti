@@ -14,6 +14,16 @@
             "nome": "🏊‍♂️ Sito Piscina",
             "descrizione": "Un sito web conclusivo sviluppato con l'obiettivo di raccogliere misurazioni su alcuni compagni di classe. Questa piattaforma funge da strumento digitale per registrare e gestire misurazioni, potenzialmente per scopi antropometrici o di ricerca. Il sito web fornisce un ambiente sicuro e intuitivo per inserire, memorizzare e analizzare i dati delle misurazioni, garantendo una registrazione accurata e organizzata per il compito designato.",
             "link": "https://lucx-albx.github.io/Piscina/"
+        },
+        {
+            "nome": "🛡️ Primo Gioco",
+            "descrizione": "'Cavaliere d'Oro: Le Sfide del Drago Cadente' è un coinvolgente gioco d'avventura sviluppato utilizzando la potente piattaforma Phaser 3. Ambientato in un mondo fantastico intriso di mistero e pericolo, il gioco offre un'esperienza coinvolgente e avvincente per i giocatori di tutte le età. Nel ruolo del valoroso Cavaliere d'Oro, i giocatori intraprenderanno un epico viaggio attraverso terre incantate, affrontando sfide mortali al fine di sconfiggere il temibile Dragone Cadente e i suoi spietati seguaci, gli zombie. L'obiettivo principale è completare tre affascinanti sfide, ognuna delle quali metterà alla prova le abilità strategiche e il coraggio dei giocatori.",
+            "link": "https://lucx-albx.github.io/Gioco1/"
+        },
+        {
+            "nome": "💆‍♀️ Secondo Gioco",
+            "descrizione": "'Epic Vichingo: La Sfida del Drago Forgiato' rappresenta un'emozionante avventura sviluppata con la potente tecnologia di Phaser 3. In questo coinvolgente gioco d'azione e avventura, i giocatori vestiranno i panni di un coraggioso vichingo determinato a superare cinque livelli pieni di sfide crescenti, al fine di affrontare il temibile boss finale, il possente Drago Forgiato. Attraverso una combinazione di meccaniche di gioco di alta qualità e un'ambientazione suggestiva, 'Epic Vichingo' trasporta i giocatori in un mondo di miti nordici, in cui le leggende prendono vita attraverso sfide entusiasmanti e una narrativa coinvolgente.",
+            "link": "https://lucx-albx.github.io/GiocoP3/"
         }
     ],
     "Web_app":[
@@ -63,6 +73,11 @@
             "nome": "🃏 Edipy",
             "descrizione": "Questa applicazione è stata progettata per semplificare e velocizzare i processi di programmazione con Python che tendono a essere lenti o complessi. Edipy è un pratico strumento che offre un insieme di funzionalità e automatismi pensati per migliorare l'efficienza dello sviluppo in Python. Dall'automazione di task ripetitivi all'ottimizzazione dell'esecuzione di script, Edipy è una risorsa preziosa per i programmatori che cercano di ottimizzare il proprio flusso di lavoro. Sperimenta ora Edipy e scopri come può rendere la tua esperienza di sviluppo più fluida ed efficace. APP NATA A SCOPO SCOLASTICO",
             "link": "./Download/AlbaFileDialog.py"
+        },
+        {
+            "nome": "📂 FileDeleter",
+            "descrizione": "'FileDeleter' è un'applicazione desktop avanzata, sviluppata utilizzando la potente tecnologia di programmazione Python, che offre un servizio di ottimizzazione e pulizia dei file temporanei su sistemi Windows. Progettata per migliorare le prestazioni e liberare spazio prezioso su disco, questa app offre un'interfaccia intuitiva e un set di funzionalità flessibili per consentire agli utenti di personalizzare il processo di pulizia in base alle proprie esigenze.",
+            "link": "./Download/Setup8.3"
         }
     ]
 }

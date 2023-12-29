@@ -24,6 +24,11 @@
             "nome": "💆‍♀️ Secondo Gioco",
             "descrizione": "'Epic Vichingo: La Sfida del Drago Forgiato' rappresenta un'emozionante avventura sviluppata con la potente tecnologia di Phaser 3. In questo coinvolgente gioco d'azione e avventura, i giocatori vestiranno i panni di un coraggioso vichingo determinato a superare cinque livelli pieni di sfide crescenti, al fine di affrontare il temibile boss finale, il possente Drago Forgiato. Attraverso una combinazione di meccaniche di gioco di alta qualità e un'ambientazione suggestiva, 'Epic Vichingo' trasporta i giocatori in un mondo di miti nordici, in cui le leggende prendono vita attraverso sfide entusiasmanti e una narrativa coinvolgente.",
             "link": "https://lucx-albx.github.io/GiocoP3/"
+        },
+        {
+            "nome": "ChatNody",
+            "descrizione": "ChatNody è una web app sviluppata in React che utilizza un modello sviluppato in python. Risponde alle domande degli utenti fornendo definizioni o esempi in base all'input ricevuto. L'interfaccia utente è intuitiva, consentendo una facile interazione. La reattività dell'app migliora l'esperienza utente, offrendo risposte quasi istantanee. In breve, ChatNody integra tecnologie avanzate per fornire informazioni rapide e personalizzate agli utenti.",
+            "link": "https://chatnody-3b7ba.web.app/"
         }
     ],
     "Web_app":[

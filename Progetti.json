@@ -56,6 +56,11 @@
             "nome": "🌍 Sito APICE",
             "descrizione": "Una web app sviluppata alla fine del periodo scolastico in occasione di un incontro con Luca Giordana. Questa applicazione offre uno spazio per documentare e presentare le conoscenze acquisite dall'interazione con Luca Giordana. Potrebbe includere elementi multimediali come immagini, video e testo, offrendo una rappresentazione professionale dell'impatto dell'incontro sul percorso di apprendimento degli studenti.",
             "link": "https://progetto-apice.web.app/"
+        },
+        {
+            "nome": "🆘 FollowMe",
+            "descrizione": "FollowMe è una web app sviluppata in React con l'obiettivo di fornire un sistema di navigazione interattivo per aiutare le persone a orientarsi all'interno della nuova scuola a Verzuolo. L'app è stata concepita come progetto scolastico, con l'intento di semplificare l'esperienza delle persone nella scoperta e nell'utilizzo delle strutture della scuola.",
+            "link": "https://follow-me-rivoira.web.app/"
         }
     ],
     "Python_progetti":[

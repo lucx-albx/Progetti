@@ -21,7 +21,7 @@
             "link": "https://lucx-albx.github.io/Gioco1/"
         },
         {
-            "nome": "💆‍♀️ Secondo Gioco",
+            "nome": "🛡️ Secondo Gioco",
             "descrizione": "'Epic Vichingo: La Sfida del Drago Forgiato' rappresenta un'emozionante avventura sviluppata con la potente tecnologia di Phaser 3. In questo coinvolgente gioco d'azione e avventura, i giocatori vestiranno i panni di un coraggioso vichingo determinato a superare cinque livelli pieni di sfide crescenti, al fine di affrontare il temibile boss finale, il possente Drago Forgiato. Attraverso una combinazione di meccaniche di gioco di alta qualità e un'ambientazione suggestiva, 'Epic Vichingo' trasporta i giocatori in un mondo di miti nordici, in cui le leggende prendono vita attraverso sfide entusiasmanti e una narrativa coinvolgente.",
             "link": "https://lucx-albx.github.io/GiocoP3/"
         }
@@ -58,6 +58,11 @@
             "link": "https://progetto-apice.web.app/"
         },
         {
+            "nome": "🤖 ChatNody",
+            "descrizione": "ChatNody è una web app sviluppata in React che utilizza un modello sviluppato in python. Risponde alle domande degli utenti fornendo definizioni o esempi in base all'input ricevuto. L'interfaccia utente è intuitiva, consentendo una facile interazione. La reattività dell'app migliora l'esperienza utente, offrendo risposte quasi istantanee. In breve, ChatNody integra tecnologie avanzate per fornire informazioni rapide e personalizzate agli utenti.",
+            "link": "https://chatnody-3b7ba.web.app/"
+        },
+        {
             "nome": "🆘 FollowMe",
             "descrizione": "FollowMe è una web app sviluppata in React con l'obiettivo di fornire un sistema di navigazione interattivo per aiutare le persone a orientarsi all'interno della nuova scuola a Verzuolo. L'app è stata concepita come progetto scolastico, con l'intento di semplificare l'esperienza delle persone nella scoperta e nell'utilizzo delle strutture della scuola.",
             "link": "https://follow-me-rivoira.web.app/"
@@ -66,17 +71,17 @@
     "Python_progetti":[
         {
             "nome": "🚗 CarGame",
-            "descrizione": "Questa applicazione rappresenta un coinvolgente gioco di guida automobilistica, dove l'utente si troverà ad affrontare sfide emozionanti attraverso un percorso disseminato di ostacoli unici e abilità speciali. Durante il gioco, i giocatori dovranno dimostrare agilità e riflessi rapidi per superare gli ostacoli e sfruttare al meglio le abilità per raggiungere il traguardo. L'applicazione offre un'esperienza di gioco coinvolgente, arricchita da una varietà di situazioni e sfide che mettono alla prova le capacità di guida virtuale dei giocatori. APP NATA A SCOPO SCOLASTICO",
+            "descrizione": "Questa applicazione rappresenta un coinvolgente gioco di guida automobilistica, dove l'utente si troverà ad affrontare sfide emozionanti attraverso un percorso disseminato di ostacoli unici e abilità speciali. Durante il gioco, i giocatori dovranno dimostrare agilità e riflessi rapidi per superare gli ostacoli e sfruttare al meglio le abilità per raggiungere il traguardo. L'applicazione offre un'esperienza di gioco coinvolgente, arricchita da una varietà di situazioni e sfide che mettono alla prova le capacità di guida virtuale dei giocatori.",
             "link": "./Download/CarGame.zip"
         },
         {
             "nome": "🚢 Battaglia navale",
-            "descrizione": "Questa applicazione riporta in vita il classico gioco da tavolo della Battaglia Navale in un'esperienza digitale interattiva. Gli utenti avranno l'opportunità di sfidarsi a turno nella disposizione strategica delle loro navi, scegliendo saggiamente le posizioni in cui collocarle. Una volta che le navi sono posizionate, i giocatori possono mettere alla prova le loro abilità tattiche sfidando un amico o persino un avversario virtuale controllato dal computer. Questo gioco offre un ambiente di competizione amichevole e stimolante, in cui la pianificazione e la strategia sono fondamentali per ottenere la vittoria. APP NATA A SCOPO SCOLASTICO",
+            "descrizione": "Questa applicazione riporta in vita il classico gioco da tavolo della Battaglia Navale in un'esperienza digitale interattiva. Gli utenti avranno l'opportunità di sfidarsi a turno nella disposizione strategica delle loro navi, scegliendo saggiamente le posizioni in cui collocarle. Una volta che le navi sono posizionate, i giocatori possono mettere alla prova le loro abilità tattiche sfidando un amico o persino un avversario virtuale controllato dal computer. Questo gioco offre un ambiente di competizione amichevole e stimolante, in cui la pianificazione e la strategia sono fondamentali per ottenere la vittoria.",
             "link": "./Download/Battaglia_Navale.zip"
         },
         {
             "nome": "🃏 Edipy",
-            "descrizione": "Questa applicazione è stata progettata per semplificare e velocizzare i processi di programmazione con Python che tendono a essere lenti o complessi. Edipy è un pratico strumento che offre un insieme di funzionalità e automatismi pensati per migliorare l'efficienza dello sviluppo in Python. Dall'automazione di task ripetitivi all'ottimizzazione dell'esecuzione di script, Edipy è una risorsa preziosa per i programmatori che cercano di ottimizzare il proprio flusso di lavoro. Sperimenta ora Edipy e scopri come può rendere la tua esperienza di sviluppo più fluida ed efficace. APP NATA A SCOPO SCOLASTICO",
+            "descrizione": "Questa applicazione è stata progettata per semplificare e velocizzare i processi di programmazione con Python che tendono a essere lenti o complessi. Edipy è un pratico strumento che offre un insieme di funzionalità e automatismi pensati per migliorare l'efficienza dello sviluppo in Python. Dall'automazione di task ripetitivi all'ottimizzazione dell'esecuzione di script, Edipy è una risorsa preziosa per i programmatori che cercano di ottimizzare il proprio flusso di lavoro. Sperimenta ora Edipy e scopri come può rendere la tua esperienza di sviluppo più fluida ed efficace.",
             "link": "./Download/AlbaFileDialog.py"
         },
         {

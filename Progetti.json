@@ -53,11 +53,6 @@
             "link": "https://progetti-itis-rivoira-4c.web.app/"
         },
         {
-            "nome": "🌍 Sito APICE",
-            "descrizione": "Una web app sviluppata alla fine del periodo scolastico in occasione di un incontro con Luca Giordana. Questa applicazione offre uno spazio per documentare e presentare le conoscenze acquisite dall'interazione con Luca Giordana. Potrebbe includere elementi multimediali come immagini, video e testo, offrendo una rappresentazione professionale dell'impatto dell'incontro sul percorso di apprendimento degli studenti.",
-            "link": "https://progetto-apice.web.app/"
-        },
-        {
             "nome": "🤖 ChatNody",
             "descrizione": "ChatNody è una web app sviluppata in React che utilizza un modello sviluppato in python. Risponde alle domande degli utenti fornendo definizioni o esempi in base all'input ricevuto. L'interfaccia utente è intuitiva, consentendo una facile interazione. La reattività dell'app migliora l'esperienza utente, offrendo risposte quasi istantanee. In breve, ChatNody integra tecnologie avanzate per fornire informazioni rapide e personalizzate agli utenti.",
             "link": "https://chatnody-3b7ba.web.app/"

@@ -2,21 +2,61 @@
     "Siti_web": [
         {
             "nome": "🏳️ Sito guida",
+            "tecnologie": [
+                {
+                    "colore": "#f16529",
+                    "nome": "HTML"
+                },
+                {
+                    "colore": "#eebe24",
+                    "nome": "JavaScript"
+                }
+            ],
             "descrizione": "Un sito web sviluppato con l'intento di chiarire concetti avanzati di JavaScript, JSON e XML. Fornisce un'approfondita esplorazione di React e MongoDB. Questa piattaforma educativa offre una disamina completa di paradigmi di programmazione complessi, consentendo agli apprendenti di comprendere tecniche intricate di sviluppo web. Il sito web combina spiegazioni dettagliate, esempi di codice e demo interattive per migliorare la comprensione di queste tecnologie.",
             "link": "https://lucx-albx.github.io/Guida/index.html"
         },
         {
             "nome": "📁 Filedialog guida",
+            "tecnologie": [
+                {
+                    "colore": "#f16529",
+                    "nome": "HTML"
+                },
+                {
+                    "colore": "#eebe24",
+                    "nome": "JavaScript"
+                }
+            ],
             "descrizione": "Un sito web conclusivo sviluppato per presentare e introdurre il widget 'filedialog' della libreria Tkinter di Python. Questa piattaforma offre una panoramica concisa ma informativa delle funzionalità del widget, fornendo esempi pratici e guide passo-passo. Gli utenti possono esplorare le capacità del widget, acquisendo conoscenze sull'uso della manipolazione dei file e dell'interazione all'interno delle applicazioni Python.",
             "link": "https://lucx-albx.github.io/Filedialog_guida/index.html"
         },
         {
             "nome": "🛡️ Primo Gioco",
+            "tecnologie": [
+                {
+                    "colore": "#f16529",
+                    "nome": "HTML"
+                },
+                {
+                    "colore": "#eebe24",
+                    "nome": "JavaScript"
+                }
+            ],
             "descrizione": "Cavaliere d'Oro: Le Sfide del Drago Cadente' è un coinvolgente gioco d'avventura sviluppato utilizzando la potente piattaforma Phaser 3. Ambientato in un mondo fantastico intriso di mistero e pericolo, il gioco offre un'esperienza coinvolgente e avvincente per i giocatori di tutte le età. Nel ruolo del valoroso Cavaliere d'Oro, i giocatori intraprenderanno un epico viaggio attraverso terre incantate, affrontando sfide mortali al fine di sconfiggere il temibile Dragone Cadente e i suoi spietati seguaci, gli zombie. L'obiettivo principale è completare tre affascinanti sfide, ognuna delle quali metterà alla prova le abilità strategiche e il coraggio dei giocatori.",
             "link": "https://lucx-albx.github.io/Gioco1/"
         },
         {
             "nome": "🛡️ Secondo Gioco",
+            "tecnologie": [
+                {
+                    "colore": "#f16529",
+                    "nome": "HTML"
+                },
+                {
+                    "colore": "#eebe24",
+                    "nome": "JavaScript"
+                }
+            ],
             "descrizione": "Epic Vichingo: La Sfida del Drago Forgiato' rappresenta un'emozionante avventura sviluppata con la potente tecnologia di Phaser 3. In questo coinvolgente gioco d'azione e avventura, i giocatori vestiranno i panni di un coraggioso vichingo determinato a superare cinque livelli pieni di sfide crescenti, al fine di affrontare il temibile boss finale, il possente Drago Forgiato. Attraverso una combinazione di meccaniche di gioco di alta qualità e un'ambientazione suggestiva, 'Epic Vichingo' trasporta i giocatori in un mondo di miti nordici, in cui le leggende prendono vita attraverso sfide entusiasmanti e una narrativa coinvolgente.",
             "link": "https://lucx-albx.github.io/GiocoP3/"
         }
@@ -24,36 +64,98 @@
     "Web_app":[
         {
             "nome": "📒 Prendi Nota",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                },
+                {
+                    "colore": "#43932e",
+                    "nome": "NodeJS"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
+                }
+            ],
             "descrizione": "Benvenuti su Prendi Nota, la web app definitiva per la gestione degli appunti. Organizza i tuoi contenuti, cattura idee e ottieni riassunti. Sia che tu sia uno studente o un professionista, semplifica il tuo apprendimento e la produttività con Prendi Nota.",
             "link": "https://prendi-notax.web.app/"
         },
         {
             "nome": "🗼 Torre civica",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                }
+            ],
             "descrizione": "Una web app sviluppata alla conclusione di un periodo scolastico con l'obiettivo di illustrare il fenomeno della Torre Civica di Saluzzo. Questa piattaforma interattiva offre un'esplorazione completa della rilevanza storica e architettonica della Torre Civica, combinando informazioni testuali, immagini e elementi interattivi per coinvolgere gli utenti in una profonda comprensione dell'argomento.",
             "link": "https://torrecivica-1243f.web.app/"
         },
         {
             "nome": "🔴 Pokemon",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                },
+                {
+                    "colore": "#43932e",
+                    "nome": "NodeJS"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
+                }
+            ],
             "descrizione": "Una web app conclusiva sviluppata al termine di un periodo scolastico, ideata per fornire esperienza pratica nella gestione di una grande quantità di dati. Questo sito web è incentrato sull'universo dei Pokémon, offrendo un'esplorazione basata sui dati di diverse specie di Pokémon, abilità e attributi. Gli utenti possono navigare attraverso l'ampia raccolta di dati sui Pokémon, visualizzando tendenze e pattern attraverso grafici dinamici e elementi visivi informativi.",
             "link": "https://github.com/lucx-albx/Pokemon-house"
         },
         {
             "nome": "🔵 Api telegram",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                }
+            ],
             "descrizione": "Una web app sviluppata con l'obiettivo di utilizzare API per l'integrazione fluida con la piattaforma di messaggistica Telegram. Questo progetto, realizzato verso la fine di un periodo scolastico, facilita la trasmissione continua di messaggi e immagini su Telegram utilizzando API. Gli utenti possono configurare e pianificare il contenuto da inviare, fornendo uno strumento versatile per messaggi automatizzati e condivisione di contenuti visivi.",
             "link": "https://api-telegram-cd687.web.app/"
         },
         {
             "nome": "🏫 Progetti scolastici",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                }
+            ],
             "descrizione": "Una web app conclusiva sviluppata come archivio per tutti i progetti intrapresi nel corso degli anni scolastici. Questa piattaforma funge da magazzino virtuale, memorizzando e organizzando una raccolta di progetti completati durante il percorso accademico. La struttura e la navigazione della web app facilitano l'accesso a ciascun progetto, offrendo una vetrina completa delle diverse competenze e realizzazioni degli studenti.",
             "link": "https://progetti-itis-rivoira-4c.web.app/"
         },
         {
             "nome": "🤖 ChatNody",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                },
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
             "descrizione": "ChatNody è una web app sviluppata in React che utilizza un modello sviluppato in python. Risponde alle domande degli utenti fornendo definizioni o esempi in base all'input ricevuto. L'interfaccia utente è intuitiva, consentendo una facile interazione. La reattività dell'app migliora l'esperienza utente, offrendo risposte quasi istantanee. In breve, ChatNody integra tecnologie avanzate per fornire informazioni rapide e personalizzate agli utenti.",
             "link": "https://chatnody-3b7ba.web.app/"
         },
         {
             "nome": "🆘 FollowMe",
+            "tecnologie": [
+                {
+                    "colore": "#0204a3",
+                    "nome": "React"
+                }
+            ],
             "descrizione": "FollowMe è una web app sviluppata in React con l'obiettivo di fornire un sistema di navigazione interattivo per aiutare le persone a orientarsi all'interno della nuova scuola a Verzuolo. L'app è stata concepita come progetto scolastico, con l'intento di semplificare l'esperienza delle persone nella scoperta e nell'utilizzo delle strutture della scuola.",
             "link": "https://follow-me-itis-rivoira.web.app/"
         }
@@ -61,21 +163,45 @@
     "Python_progetti":[
         {
             "nome": "🚗 CarGame",
+            "tecnologie": [
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
             "descrizione": "Questa applicazione rappresenta un coinvolgente gioco di guida automobilistica, dove l'utente si troverà ad affrontare sfide emozionanti attraverso un percorso disseminato di ostacoli unici e abilità speciali. Durante il gioco, i giocatori dovranno dimostrare agilità e riflessi rapidi per superare gli ostacoli e sfruttare al meglio le abilità per raggiungere il traguardo. L'applicazione offre un'esperienza di gioco coinvolgente, arricchita da una varietà di situazioni e sfide che mettono alla prova le capacità di guida virtuale dei giocatori.",
             "link": "./Download/CarGame.zip"
         },
         {
             "nome": "🚢 Battaglia navale",
+            "tecnologie": [
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
             "descrizione": "Questa applicazione riporta in vita il classico gioco da tavolo della Battaglia Navale in un'esperienza digitale interattiva. Gli utenti avranno l'opportunità di sfidarsi a turno nella disposizione strategica delle loro navi, scegliendo saggiamente le posizioni in cui collocarle. Una volta che le navi sono posizionate, i giocatori possono mettere alla prova le loro abilità tattiche sfidando un amico o persino un avversario virtuale controllato dal computer. Questo gioco offre un ambiente di competizione amichevole e stimolante, in cui la pianificazione e la strategia sono fondamentali per ottenere la vittoria.",
             "link": "./Download/Battaglia_Navale.zip"
         },
         {
             "nome": "🃏 Edipy",
+            "tecnologie": [
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
             "descrizione": "Questa applicazione è stata progettata per semplificare e velocizzare i processi di programmazione con Python che tendono a essere lenti o complessi. Edipy è un pratico strumento che offre un insieme di funzionalità e automatismi pensati per migliorare l'efficienza dello sviluppo in Python. Dall'automazione di task ripetitivi all'ottimizzazione dell'esecuzione di script, Edipy è una risorsa preziosa per i programmatori che cercano di ottimizzare il proprio flusso di lavoro. Sperimenta ora Edipy e scopri come può rendere la tua esperienza di sviluppo più fluida ed efficace.",
             "link": "./Download/AlbaFileDialog.py"
         },
         {
             "nome": "📂 FileDeleter",
+            "tecnologie": [
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
             "descrizione": "'FileDeleter' è un'applicazione desktop avanzata, sviluppata utilizzando la potente tecnologia di programmazione Python, che offre un servizio di ottimizzazione e pulizia dei file temporanei su sistemi Windows. Progettata per migliorare le prestazioni e liberare spazio prezioso su disco, questa app offre un'interfaccia intuitiva e un set di funzionalità flessibili per consentire agli utenti di personalizzare il processo di pulizia in base alle proprie esigenze.",
             "link": "./Download/Setup8.3.exe"
         }

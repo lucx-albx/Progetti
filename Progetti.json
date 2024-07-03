@@ -224,6 +224,17 @@
             ],
             "descrizione": "'FileDeleter' è un'applicazione desktop avanzata, sviluppata utilizzando la potente tecnologia di programmazione Python, che offre un servizio di ottimizzazione e pulizia dei file temporanei su sistemi Windows. Progettata per migliorare le prestazioni e liberare spazio prezioso su disco, questa app offre un'interfaccia intuitiva e un set di funzionalità flessibili per consentire agli utenti di personalizzare il processo di pulizia in base alle proprie esigenze.",
             "link": "./Download/Setup8.3.exe"
+        },
+        {
+            "nome": "♟️ Scacchi",
+            "tecnologie": [
+                {
+                    "colore": "#3f7eb1",
+                    "nome": "Python"
+                }
+            ],
+            "descrizione": "Scacchi è un gioco a turni progettato per essere giocato sullo stesso PC, ideale per sfide tra amici e familiari. Sviluppato in Python per sistemi operativi Windows utilizzando la libreria Tkinter per l'interfaccia grafica, offre un'esperienza di gioco coinvolgente e intuitiva.",
+            "link": "./Download/Scacchi.py"
         }
     ]
 }

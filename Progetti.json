@@ -117,6 +117,10 @@
                 {
                     "colore": "#61d9fb",
                     "nome": "React"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
                 }
             ],
             "descrizione": "Una web app sviluppata con l'obiettivo di utilizzare API per l'integrazione fluida con la piattaforma di messaggistica Telegram. Questo progetto, realizzato verso la fine di un periodo scolastico, facilita la trasmissione continua di messaggi e immagini su Telegram utilizzando API. Gli utenti possono configurare e pianificare il contenuto da inviare, fornendo uno strumento versatile per messaggi automatizzati e condivisione di contenuti visivi.",
@@ -128,6 +132,10 @@
                 {
                     "colore": "#61d9fb",
                     "nome": "React"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
                 }
             ],
             "descrizione": "Una web app conclusiva sviluppata come archivio per tutti i progetti intrapresi nel corso degli anni scolastici. Questa piattaforma funge da magazzino virtuale, memorizzando e organizzando una raccolta di progetti completati durante il percorso accademico. La struttura e la navigazione della web app facilitano l'accesso a ciascun progetto, offrendo una vetrina completa delle diverse competenze e realizzazioni degli studenti.",
@@ -143,6 +151,10 @@
                 {
                     "colore": "#3f7eb1",
                     "nome": "Python"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
                 }
             ],
             "descrizione": "ChatNody è una web app sviluppata in React che utilizza un modello sviluppato in python. Risponde alle domande degli utenti fornendo definizioni o esempi in base all'input ricevuto. L'interfaccia utente è intuitiva, consentendo una facile interazione. La reattività dell'app migliora l'esperienza utente, offrendo risposte quasi istantanee. In breve, ChatNody integra tecnologie avanzate per fornire informazioni rapide e personalizzate agli utenti.",
@@ -154,6 +166,10 @@
                 {
                     "colore": "#61d9fb",
                     "nome": "React"
+                },
+                {
+                    "colore": "#e2af27",
+                    "nome": "Firebase"
                 }
             ],
             "descrizione": "FollowMe è una web app sviluppata in React con l'obiettivo di fornire un sistema di navigazione interattivo per aiutare le persone a orientarsi all'interno della nuova scuola a Verzuolo. L'app è stata concepita come progetto scolastico, con l'intento di semplificare l'esperienza delle persone nella scoperta e nell'utilizzo delle strutture della scuola.",

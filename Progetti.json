@@ -97,25 +97,6 @@
             "link": "https://torrecivica-1243f.web.app/"
         },
         {
-            "nome": "🔴 Pokemon",
-            "tecnologie": [
-                {
-                    "colore": "#61d9fb",
-                    "nome": "React"
-                },
-                {
-                    "colore": "#43932e",
-                    "nome": "NodeJS"
-                },
-                {
-                    "colore": "#e2af27",
-                    "nome": "Firebase"
-                }
-            ],
-            "descrizione": "Una web app conclusiva sviluppata al termine di un periodo scolastico, ideata per fornire esperienza pratica nella gestione di una grande quantità di dati. Questo sito web è incentrato sull'universo dei Pokémon, offrendo un'esplorazione basata sui dati di diverse specie di Pokémon, abilità e attributi. Gli utenti possono navigare attraverso l'ampia raccolta di dati sui Pokémon, visualizzando tendenze e pattern attraverso grafici dinamici e elementi visivi informativi.",
-            "link": "https://github.com/lucx-albx/Pokemon-house"
-        },
-        {
             "nome": "🔵 Api telegram",
             "tecnologie": [
                 {
